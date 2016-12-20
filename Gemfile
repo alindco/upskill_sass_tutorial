@@ -30,6 +30,10 @@ gem 'jbuilder', '2.5.0'
 # gem 'capistrano-rails', group: :development
 # use bootstrap lib for layout and ui front end
 gem 'bootstrap-sass', '3.3.7'
+#gem for font awsome gem for adding icons
+gem 'font-awesome-sass', '4.6.2'
+
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
