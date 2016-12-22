@@ -49,7 +49,17 @@ background: linear-gradient(to left, #3a7bd5, #3a6073);
   }
 
 }
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: white;
+  
+}
+.navbar-default .navbar-toggle{
+  border: 2px solid white;
+}
 
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+  background-color: #90b3e5;
+}
 .navbar-brand{
   font-family: 'Open Sans', sans-serif;
   font-weight: 800;
